@@ -1,4 +1,4 @@
 # MSc Dissertation Project
-## Demand forecasting for e-commerce with customer behaviour data
+## Customer behaviour analysis for e-commerce
 
 **Dataset:** [eCommerce behavior data from multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
